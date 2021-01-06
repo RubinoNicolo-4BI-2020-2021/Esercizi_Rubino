@@ -1,0 +1,8 @@
+site_name: Nicolo'_Rubino
+
+nav:
+
+  - 'MD': 'index.md'
+  - 'Test': 'test.txt'
+theme:
+  name: readthedocs
